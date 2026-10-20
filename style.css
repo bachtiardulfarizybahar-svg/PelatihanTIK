@@ -4,7 +4,7 @@ body {
   colow: #0000ff;
 }
 
-.Kartu Profil {
+.kartu-profil {
   width: 300px;
   margin: 50pc-auto;
   padding: 20px;
@@ -14,7 +14,7 @@ body {
   text-align: center;
 }
 
-.Kartu Profil {
+.kartu-profil {
   width: 150px;
   border-radius: 50px;
 }
